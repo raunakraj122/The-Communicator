@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raunak Raj",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "got": "^11.8.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "random-puppy": "^1.1.0",
+    "xhr2": "^0.2.0"
+  }
+}
