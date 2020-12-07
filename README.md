@@ -1,16 +1,14 @@
-## The Communicator
+# The Communicator
 
 The Communicator is a Discord Bot create with Discord Api <a href="https://discord.com/developers/docs/intro">Discord Developer Portal</a>
 
 It sends message from one server to another
 
-<ul>
-    <li> How does it work?</li>
-    <li> What are the commands?</li>
-    <li> How to configure the bot?<li>
-</ul>
+<li> How does it work?</li>
+<li> What are the commands?</li>
+<li> How to configure the bot?<li>
 
-# How Does it work?
+## How Does it work?
 
 The bot, when you run the command, search for webhooks present in the target channel!
 
@@ -26,7 +24,7 @@ The bot, when you run the command, search for webhooks present in the target cha
 1. The bot collects the message sent by you!
 2. It send your message to the target!
 
-# What are the commands?
+## What are the commands?
 
 There are 3 main commands!
 
@@ -35,15 +33,18 @@ There are 3 main commands!
 3. `${PREFIX}send`
 
 **`${PREFIX}help`**
+
 A simple command that replies with a help embed show all 3 different commands!
 
 **`${PREFIX}info`**
+
 A command that displayes the name of Bot developer, Bot invite link, Servers the bot is in, Link to support server and bot uptime!
 
 **`${PREFIX}send`**
+
 The main command of the bot that send message through webhooks!
 
-# How to configure the bot?
+## How to configure the bot?
 
 1. Setup/ Install the dependencies 
 
