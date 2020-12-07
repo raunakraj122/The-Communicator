@@ -12,7 +12,7 @@ It sends message from one server to another
 
 The bot, when you run the command, search for webhooks present in the target channel!
 
-<li>If webhook in not found!</li>
+<li>If webhook is not found!</li>
 
 1. It create a webhook in the target channel!
 2. Send you and error message saying (Webhook not found!)
