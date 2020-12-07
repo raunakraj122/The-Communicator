@@ -6,7 +6,7 @@ It sends message from one server to another
 
 <li> How does it work?</li>
 <li> What are the commands?</li>
-<li> How to configure the bot?<li>
+<li> How to configure the bot?</li>
 
 ## How Does it work?
 
