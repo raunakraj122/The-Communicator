@@ -1,6 +1,6 @@
 # The Communicator
 
-The Communicator is a Discord Bot create with Discord Api <a href="https://discord.com/developers/docs/intro">Discord Developer Portal</a>
+The Communicator is a Discord Bot created with Discord Api <a href="https://discord.com/developers/docs/intro">Discord Developer Portal</a>
 
 It sends message from one server to another
 
