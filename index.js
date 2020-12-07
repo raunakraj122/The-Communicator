@@ -81,10 +81,6 @@ client.on('message', async message => {
                                 name: 'Support',
                                 value: "[Join our support server](" + supportserver + ")"
                             },
-                            //{
-                              //  name: 'Website',
-                              //  value: '[Bot Website](https://discordjs.netlify.app)'
-                            //},
                             {
                                 name: 'Uptime',
                                 value: "Uptime: " + uptime 
