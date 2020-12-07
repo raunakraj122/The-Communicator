@@ -38,7 +38,7 @@ A simple command that replies with a help embed show all 3 different commands!
 
 **`${PREFIX}info`**
 
-A command that displayes the name of Bot developer, Bot invite link, Servers the bot is in, Link to support server and bot uptime!
+A command that displays the name of Bot developer, Bot invite link, Servers the bot is in, Link to support server and bot uptime!
 
 **`${PREFIX}send`**
 
@@ -51,8 +51,8 @@ The main command of the bot that send message through webhooks!
 Open terminal, navigate to your folder and run the following!
 ```
 npm init
-npm i discord.js
-npm i xhr2
+npm install discord.js
+npm install xhr2
 ```
 
 2. Configuration
